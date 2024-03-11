@@ -1,4 +1,10 @@
 -r ./base.txt
 
+# Linters
 black==24.2.0
 flake8==7.0.0
+flake8-async==24.3.2
+dlint==0.14.1
+
+# Tests
+pytest==8.1.1

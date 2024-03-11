@@ -1,0 +1,7 @@
+pydantic==2.6.3
+pydantic-settings==2.2.1
+
+# DATABASE
+sqlalchemy==2.0.28
+psycopg2==2.9.9
+asyncpg==0.29.0
